@@ -6,7 +6,7 @@
 
 Hi there, I'm **Kaporos** , and i'm a student. 
 
-  <img align="right" width="250" alt="QR" src="qr-code.svg" />
+  <img align="right" width="250" alt="QR" src="qr-code-.svg" />
 
 **Languages and Tools:**  
 
