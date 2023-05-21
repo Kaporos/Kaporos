@@ -4,7 +4,7 @@
 <br />
 <br />
 
-Hi there, I'm **Kaporos** , and i'm a student. 
+Hi there, I'm **Kaporos** , and i'm an engineering student. 
 
   <img align="right" width="250" alt="QR" src="https://raw.githubusercontent.com/Kaporos/Kaporos/master/qr-code-.svg" />
 
